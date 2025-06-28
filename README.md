@@ -13,19 +13,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ruVm90&label=Profile%20views&color=0e75b6&style=plastic" alt="ruVm90" /> </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruVm90&theme=algolia" alt="ruVm90" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruVm90&show_icons=true&theme=algolia" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruVm90&layout=compact&theme=algolia" alt="Top Langs" />
-</p>
 
 
 ## 🛠️ My Tech Stack
@@ -82,6 +70,19 @@
       <img alt="Rubén's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruVm90&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     </a>
     <br/>
+	  <h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruVm90&theme=algolia" alt="ruVm90" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruVm90&show_icons=true&theme=algolia" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruVm90&layout=compact&theme=algolia" alt="Top Langs" />
+</p>
     &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruVm90&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" height="192px"/>
     <br/>
