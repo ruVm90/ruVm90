@@ -32,79 +32,41 @@
 
 ### 👉 Languages
 
-<p align="left"> 
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-</p>
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](https://www.php.net/)
+&emsp;
+[![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)](https://www.java.com)
+&emsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+&emsp;
+[![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://www.w3.org/html/)
+&emsp;
+[![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
 ### 👉 Frameworks & Tools
 
-<p align="left">
-  <a href="https://laravel.com/" target="_blank">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
-  </a>
-  &emsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white">
-  </a>
-</p>
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](https://laravel.com/)
+&emsp;
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+&emsp;
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
+&emsp;
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### 👉 Databases
 
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://mariadb.org/" target="_blank">
-    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%23003545.svg?logo=mariadb&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank">
-    <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-%23F00000.svg?logo=oracle&logoColor=white">
-  </a>
-</p>
+[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
+&emsp;
+[![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?logo=mariadb&logoColor=white)](https://mariadb.org/)
+&emsp;
+[![PL/SQL](https://img.shields.io/badge/PL/SQL-%23F00000.svg?logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)
 
 ### 👉 IDEs & Operating Systems
 
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://www.microsoft.com/windows" target="_blank">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white">
-  </a>
-</p>
+[![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+&emsp;
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)](https://www.linux.org/)
+&emsp;
+[![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 
 
