@@ -66,26 +66,16 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Rubén's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ruVm90&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    </a>
-    <br/>
-	  <h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruVm90&theme=algolia" alt="ruVm90" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruVm90&show_icons=true&theme=algolia" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruVm90&layout=compact&theme=algolia" alt="Top Langs" />
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ruVm90&show_icons=true&count_private=true&theme=algolia" height="180px" alt="ruVm90 GitHub Stats" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruVm90&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" height="192px"/>
-    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruVm90&layout=compact&theme=algolia" height="180px" alt="ruVm90 Top Languages" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruVm90&theme=algolia" alt="ruVm90 GitHub Streak" />
+  </p>
+
+  <p align="center">
     <b>Note:</b> Top languages is only a metric of the languages used in my public repositories and doesn't reflect experience level.
   </p>
 </details>
@@ -93,10 +83,13 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <a href="https://github.com/ruVm90">
-    <img alt="Rubén's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ruVm90&theme=react-dark&area=true&hide_border=true" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/ruVm90">
+      <img alt="Rubén's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ruVm90&theme=react-dark&area=true&hide_border=true" />
+    </a>
+  </p>
 </details>
+
 
 
 <br/>
