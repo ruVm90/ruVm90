@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Backend+Web+Developer;Laravel+%7C+PHP+%7C+MySQL;Always+learning+and+building;Open+to+new+opportunities&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&height=50&lines=Junior+Backend+Developer;Specialized+in+Laravel,+PHP,+MySQL;Writing+clean+and+scalable+code;Open+to+new+projects+and+collaborations" />
 </a>
 
 </p>
@@ -66,7 +66,9 @@
 
 ## 🚀 Featured Projects
 
-- 🍽️ [My Delicius Blog (Laravel)](https://github.com/ruVm90/delicius_blog) – A cooking blog platform with user auth, recipe CRUD and Tailwind CSS.
+### 🍽️ [Delicius Blog – Laravel Project](https://github.com/ruVm90/delicius_blog)
+
+A full-featured cooking blog built with Laravel. Includes user authentication, recipe management (CRUD), Tailwind CSS for styling, and MySQL as the database. Focused on clean architecture and practical functionality.
 
 
 ## 📊 GitHub Stats (Expand to View)
@@ -126,11 +128,12 @@
 </p>
 
 <hr/>
-
-
 <p align="center">
-  <i>Last updated: July 2025</i>
+  🚀 Always improving, always learning. Thanks for visiting!  
+  <br/>
+  <sub>Last updated: July 2025</sub>
 </p>
+
 
 
 
