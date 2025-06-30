@@ -83,12 +83,25 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
+  <!-- Activity graph removed due to hosting issues -->
+  <!-- You can uncomment the below line if the service is back online -->
+  <!-- 
   <p align="center">
     <a href="https://github.com/ruVm90">
       <img alt="Rubén's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ruVm90&theme=react-dark&area=true&hide_border=true" />
     </a>
   </p>
+  -->
+
+  <p align="center">
+    🛠️ I’m actively working on personal projects and improving my backend skills with Laravel, MySQL, and Tailwind CSS.<br/>
+    📚 Currently learning more about Docker and RESTful API development.<br/>
+    🤝 I'm open to collaborating on open source or learning-focused projects.<br/><br/>
+    🔗 <a href="https://github.com/ruVm90?tab=repositories">View all my repositories</a>
+  </p>
 </details>
+
+
 
 
 
@@ -96,20 +109,17 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:rvmorago90@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/ruVm90"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="www.linkedin.com/in/rubenvega1890"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
 </p>
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+
+* Last Edited on: 01/07/2025
 
 
 
