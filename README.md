@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi , I'm Ruben Vega <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm Ruben Vega</h1>
+
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Backend+Web+Developer;Laravel+%7C+PHP+%7C+MySQL;Always+learning+and+building;Open+to+new+opportunities&center=true&width=500&height=50">
@@ -7,9 +8,12 @@
 
 </p>
 <hr/>
-<h4 align="center">I'm a junior web developer with a strong interest in backend development.  
-  I enjoy coding, exploring new technologies, and building useful projects.  
-  I'm curious, eager to grow, and always ready to share knowledge and contribute value to any team I join.</h4>
+<h4 align="center">
+  Junior backend web developer passionate about Laravel and PHP.  
+  I enjoy solving real-world problems with clean, efficient code.  
+  Always learning, building, and contributing to meaningful projects.
+</h4>
+
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ruVm90&label=Profile%20views&color=0e75b6&style=plastic" alt="ruVm90" /> </p>
 
@@ -59,6 +63,11 @@
 
 
 <br/>
+
+## 🚀 Featured Projects
+
+- 🍽️ [My Delicius Blog (Laravel)](https://github.com/ruVm90/delicius_blog) – A cooking blog platform with user auth, recipe CRUD and Tailwind CSS.
+
 
 ## 📊 GitHub Stats (Expand to View)
 
@@ -119,7 +128,9 @@
 <hr/>
 
 
-* Last Edited on: 01/07/2025
+<p align="center">
+  <i>Last updated: July 2025</i>
+</p>
 
 
 
