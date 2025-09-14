@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&height=50&lines=Junior+Backend+Developer;Specialized+in+Laravel,+PHP,+MySQL;Writing+clean+and+scalable+code;Open+to+new+projects+and+collaborations" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&height=50&lines=+Backend+Developer;Specialized+in+Laravel,+PHP,+MySQL;Writing+clean+and+scalable+code;Open+to+new+projects+and+collaborations" />
 </a>
 
 </p>
@@ -120,10 +120,10 @@ A full-featured cooking blog built with Laravel. Includes user authentication, r
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:rvmorago90@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://rubenv-portfolio.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:rubenvega.dev90@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/ruVm90"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rubenvega1890"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/rubenvegadev"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	
 </p>
 
