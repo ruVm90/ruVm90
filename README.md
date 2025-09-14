@@ -9,7 +9,7 @@
 </p>
 <hr/>
 <h4 align="center">
-  Junior backend web developer passionate about Laravel and PHP.  
+  Backend web developer passionate about Laravel and PHP.  
   I enjoy solving real-world problems with clean, efficient code.  
   Always learning, building, and contributing to meaningful projects.
 </h4>
